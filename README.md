@@ -25,6 +25,9 @@ SELECT * FROM RETAIL_SALES
 WHERE transactions_id IS NULL
 	OR
 	sale_date IS NULL
+
+
+
 	OR
 	sale_time IS NULL
 	OR
