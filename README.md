@@ -199,6 +199,14 @@ FROM HOURLY_SALES
 GROUP BY shift;
 ```
 
+
+
+
+
+
+
+
+
 ## Findings
 
 - **Customer Demographics:** The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
